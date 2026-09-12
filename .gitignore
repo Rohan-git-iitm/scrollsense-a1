@@ -1,0 +1,7 @@
+scrollsense.db
+scrollsense.db-wal
+scrollsense.db-shm
+venv/
+__pycache__/
+.DS_Store
+time_queries.py
